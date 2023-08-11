@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">tentno http</string>
+    <string name="notification_title">HrHTTP Service</string>
+    <string name="notification_message">Running in the background</string>
+    <string name="channel_name">ForegroundServiceChannel</string>
+    <string name="channel_description">Foreground Service Channel</string>
 </resources>

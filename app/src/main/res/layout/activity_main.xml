@@ -7,7 +7,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="23dp" />
+        android:layout_height="20dp" />
 
     <TextView
         android:id="@+id/server_info_text_view"
@@ -30,5 +30,11 @@
         android:id="@+id/permtext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Background" />
 
 </LinearLayout>
